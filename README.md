@@ -1,6 +1,6 @@
 # Python for Finance: Risk and Return
 
-### A 2.eh Full Online Video course
+### A 2.5h Full Online Video course
 - [Course page](https://www.learnpythonwithrune.org/python-for-finance-risk-and-return/)
 - [YouTube course playlist](https://youtube.com/playlist?list=PLvMRWNpDTNwRAriwbJLNymcSDN-Rw_pv_)
 
